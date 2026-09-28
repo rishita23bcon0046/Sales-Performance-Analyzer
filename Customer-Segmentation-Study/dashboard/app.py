@@ -19,7 +19,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Load Data
-df = pd.read_csv("data/processed/customer_segments.csv")
+df = pd.read_csv("Customer-Segmentation-Study/data/processed/customer_segments.csv")
 
 # -----------------------------
 # Title
